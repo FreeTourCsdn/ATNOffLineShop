@@ -93,7 +93,7 @@
     }
     
     NSArray *secondLineImageArr = @[@"goodsManager",@"comment", @"business"];
-    NSArray *secondLineLabelArr = @[@"管理产品", @"查看评价", @"联系业务经理"];
+    NSArray *secondLineLabelArr = @[@"产品管理", @"查看评价", @"联系业务经理"];
     for (int j = 0; j < 3; j++) {
         
         //第二行按钮
